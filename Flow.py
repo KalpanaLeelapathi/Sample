@@ -1,2 +1,2 @@
 enter=input("enter a value : ")
-print(changes done)
+print(server changes)
