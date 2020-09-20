@@ -1,2 +1,2 @@
 enter=input("enter a value : ")
-print(enter)
+print(changes done)
